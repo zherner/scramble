@@ -1,0 +1,2 @@
+# scramble
+Example Go lib
